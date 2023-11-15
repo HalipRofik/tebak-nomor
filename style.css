@@ -119,7 +119,7 @@ h1 {
 }
 
 /* ------mobile------- */
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   /* LAYOUT */
   header {
     position: relative;
